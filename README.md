@@ -22,7 +22,7 @@ A modern blog built with [Eleventy (11ty)](https://www.11ty.dev/) and [Decap CMS
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/brimany-blog.git
+   git clone https://github.com/imostack/brimany-blog.git
    cd brimany-blog
    ```
 
