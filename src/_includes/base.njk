@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="{{ description or 'Brimany Attorneys Blog - Legal insights and updates from Onisowurun Sampson, LLB., BL.' }}">
+  <title>{{ title }} | Brimany Attorneys Blog</title>
+  <link rel="stylesheet" href="/css/styles.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500;600;700&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+  <link rel="canonical" href="https://blog.brimanyattorneys.com{{ page.url }}">
+  {% block head %}{% endblock %}
+</head>
+<body>
+  <!-- Header -->
+  <header class="header" id="header">
+    <div class="container">
+      <a href="https://brimanyattorneys.com" class="logo">
+        <span class="logo-text">Brimany</span>
+        <span class="logo-sub">Attorneys</span>
+      </a>
+      <nav class="nav" id="nav">
+        <ul class="nav-list">
+          <li><a href="https://brimanyattorneys.com" class="nav-link">Home</a></li>
+          <li><a href="https://brimanyattorneys.com/about" class="nav-link">About</a></li>
+          <li><a href="https://brimanyattorneys.com/practice-areas" class="nav-link">Practice Areas</a></li>
+          <li><a href="/" class="nav-link active">Blog</a></li>
+          <li><a href="https://brimanyattorneys.com/contact" class="nav-link">Contact</a></li>
+        </ul>
+      </nav>
+      <div class="header-actions">
+        <a href="https://wa.me/2348064842926" class="whatsapp-btn" target="_blank" rel="noopener">
+          <i class="fab fa-whatsapp"></i>
+          <span>Chat with Us</span>
+        </a>
+        <a href="https://brimanyattorneys.com/contact" class="btn btn-primary">Free Consultation</a>
+      </div>
+      <button class="nav-toggle" id="navToggle" aria-label="Toggle navigation">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    {% block content %}{{ content | safe }}{% endblock %}
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="https://brimanyattorneys.com" class="logo">
+            <span class="logo-text">Brimany</span>
+            <span class="logo-sub">Attorneys</span>
+          </a>
+          <p>Strategic Legal Counsel for Corporate Success. A commercial law firm for the information age.</p>
+          <div class="social-links">
+            <a href="#" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
+            <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+            <a href="https://wa.me/2348064842926" aria-label="WhatsApp" target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i></a>
+          </div>
+        </div>
+        <div class="footer-links">
+          <h4>Quick Links</h4>
+          <ul>
+            <li><a href="https://brimanyattorneys.com">Home</a></li>
+            <li><a href="https://brimanyattorneys.com/about">About Us</a></li>
+            <li><a href="https://brimanyattorneys.com/practice-areas">Practice Areas</a></li>
+            <li><a href="/">Blog</a></li>
+            <li><a href="https://brimanyattorneys.com/contact">Contact</a></li>
+          </ul>
+        </div>
+        <div class="footer-links">
+          <h4>Practice Areas</h4>
+          <ul>
+            <li><a href="https://brimanyattorneys.com/practice-areas#litigation">Litigation</a></li>
+            <li><a href="https://brimanyattorneys.com/practice-areas#corporate">Corporate Services</a></li>
+            <li><a href="https://brimanyattorneys.com/practice-areas#energy">Energy & Natural Resources</a></li>
+            <li><a href="https://brimanyattorneys.com/practice-areas#ip">Intellectual Property</a></li>
+          </ul>
+        </div>
+        <div class="footer-contact">
+          <h4>Contact Us</h4>
+          <ul>
+            <li>
+              <i class="fab fa-whatsapp"></i>
+              <a href="https://wa.me/2348064842926">+234 806-484-2926</a>
+            </li>
+            <li>
+              <i class="fas fa-envelope"></i>
+              <a href="mailto:info@brimanyattorneys.com">info@brimanyattorneys.com</a>
+            </li>
+            <li>
+              <i class="fas fa-map-marker-alt"></i>
+              <span>Lagos, Nigeria</span>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; {{ page.date.getFullYear() or 2026 }} Brimany Attorneys. All rights reserved.</p>
+        <div class="footer-legal">
+          <a href="#">Privacy Policy</a>
+          <a href="#">Terms of Service</a>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- WhatsApp Float Button -->
+  <a href="https://wa.me/2348064842926" class="whatsapp-float" target="_blank" rel="noopener" aria-label="Chat on WhatsApp">
+    <i class="fab fa-whatsapp"></i>
+  </a>
+
+  <script src="/js/main.js"></script>
+</body>
+</html>

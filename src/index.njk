@@ -1,0 +1,114 @@
+---
+layout: base.njk
+title: Blog
+description: Legal insights, updates, and expert analysis from Brimany Attorneys. Stay informed about Nigerian law and business.
+---
+
+<!-- Page Hero -->
+<section class="page-hero page-hero-short">
+  <div class="page-hero-bg">
+    <img src="https://images.unsplash.com/photo-1505664194779-8beaceb93744?w=1920&q=80" alt="Legal Blog" loading="eager">
+    <div class="page-hero-overlay"></div>
+  </div>
+  <div class="container">
+    <div class="page-hero-content">
+      <span class="page-label">Our Blog</span>
+      <h1 class="page-title">Legal Insights & Updates</h1>
+      <p class="page-desc">Expert analysis and practical guidance on Nigerian law and business matters.</p>
+    </div>
+  </div>
+</section>
+
+<!-- Breadcrumb -->
+<div class="breadcrumb">
+  <div class="container">
+    <a href="https://brimanyattorneys.com">Home</a>
+    <span>/</span>
+    <span>Blog</span>
+  </div>
+</div>
+
+<!-- Blog Section -->
+<section class="blog-section">
+  <div class="container">
+    <div class="blog-grid">
+      <!-- Blog Posts -->
+      <div class="blog-posts">
+        {% for post in collections.posts %}
+        <article class="blog-card">
+          <div class="blog-card-image">
+            {% if post.data.featuredImage %}
+            <img src="{{ post.data.featuredImage }}" alt="{{ post.data.title }}" loading="lazy">
+            {% else %}
+            <img src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=600&q=80" alt="{{ post.data.title }}" loading="lazy">
+            {% endif %}
+            <span class="blog-category">{{ post.data.category or 'Legal Insights' }}</span>
+          </div>
+          <div class="blog-card-content">
+            <div class="blog-meta">
+              <span><i class="fas fa-calendar-alt"></i> {{ post.date | readableDate }}</span>
+              <span><i class="fas fa-user"></i> {{ post.data.author or 'Onisowurun Sampson' }}</span>
+            </div>
+            <h2><a href="{{ post.url }}">{{ post.data.title }}</a></h2>
+            <p>{{ post.data.excerpt or post.templateContent | excerpt }}</p>
+            <a href="{{ post.url }}" class="read-more">Read More <i class="fas fa-arrow-right"></i></a>
+          </div>
+        </article>
+        {% else %}
+        <div class="no-posts">
+          <h3>No posts yet</h3>
+          <p>Check back soon for legal insights and updates.</p>
+        </div>
+        {% endfor %}
+      </div>
+
+      <!-- Sidebar -->
+      <aside class="blog-sidebar">
+        <div class="sidebar-card">
+          <h3>About the Blog</h3>
+          <p>Welcome to the Brimany Attorneys blog. Here we share legal insights, industry updates, and practical guidance on matters affecting businesses and individuals in Nigeria.</p>
+        </div>
+
+        <div class="sidebar-card">
+          <h3>Practice Areas</h3>
+          <ul class="sidebar-links">
+            <li><a href="https://brimanyattorneys.com/practice-areas#litigation">Litigation</a></li>
+            <li><a href="https://brimanyattorneys.com/practice-areas#adr">Alternative Dispute Resolution</a></li>
+            <li><a href="https://brimanyattorneys.com/practice-areas#infrastructure">Infrastructure Finance & PPP</a></li>
+            <li><a href="https://brimanyattorneys.com/practice-areas#energy">Energy & Natural Resources</a></li>
+            <li><a href="https://brimanyattorneys.com/practice-areas#corporate">Corporate Services</a></li>
+          </ul>
+        </div>
+
+        <div class="sidebar-card">
+          <h3>Need Legal Help?</h3>
+          <p>Contact our team for a confidential consultation.</p>
+          <a href="https://brimanyattorneys.com/contact" class="btn btn-primary btn-block">Schedule Consultation</a>
+        </div>
+
+        <div class="sidebar-card">
+          <h3>Quick Contact</h3>
+          <a href="https://wa.me/2348064842926" class="btn btn-whatsapp btn-block" target="_blank" rel="noopener">
+            <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+          </a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<!-- CTA Section -->
+<section class="cta-section">
+  <div class="container">
+    <div class="cta-content">
+      <h2>Have Questions About Our Legal Services?</h2>
+      <p>Get in touch with our team for a confidential consultation. We're here to help you navigate your legal challenges.</p>
+      <div class="cta-buttons">
+        <a href="https://brimanyattorneys.com/contact" class="btn btn-primary btn-lg">Get in Touch</a>
+        <a href="https://wa.me/2348064842926" class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        </a>
+      </div>
+    </div>
+  </div>
+</section>

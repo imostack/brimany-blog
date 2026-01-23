@@ -1,0 +1,57 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# Local backend for development
+# Uncomment the following lines when testing locally:
+# local_backend: true
+
+media_folder: "src/images/uploads"
+public_folder: "/images/uploads"
+
+# Publish mode for draft/review workflow
+publish_mode: editorial_workflow
+
+collections:
+  - name: "posts"
+    label: "Blog Posts"
+    folder: "src/posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Description", name: "description", widget: "string", required: false }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Author", name: "author", widget: "string", default: "Onisowurun Sampson" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options:
+          - "Legal Insights"
+          - "Corporate Law"
+          - "Litigation"
+          - "Energy Law"
+          - "Aviation Law"
+          - "Labour Law"
+          - "Intellectual Property"
+          - "Business Tips"
+          - "Industry Updates"
+        default: "Legal Insights"
+      - { label: "Featured Image", name: "featuredImage", widget: "image", required: false }
+      - { label: "Excerpt", name: "excerpt", widget: "text", required: false }
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        default: ["posts"]
+      - { label: "Body", name: "body", widget: "markdown" }
+
+  - name: "pages"
+    label: "Pages"
+    files:
+      - label: "About Page"
+        name: "about"
+        file: "src/about.md"
+        fields:
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Layout", name: "layout", widget: "hidden", default: "base.njk" }
+          - { label: "Body", name: "body", widget: "markdown" }

@@ -1,0 +1,98 @@
+---
+title: "Employee Rights Under Nigerian Labour Law: What Every Worker Should Know"
+description: "A comprehensive guide to employee rights and protections under Nigerian labour law."
+date: 2026-01-10
+author: "Onisowurun Sampson"
+category: "Labour Law"
+featuredImage: "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=80"
+excerpt: "Understanding your rights as an employee in Nigeria is crucial for protecting yourself in the workplace. This guide covers the essential protections provided under Nigerian labour law."
+tags:
+  - posts
+  - labour law
+  - employment
+  - workers rights
+---
+
+Nigerian labour law provides significant protections for employees across various industries. Whether you're just entering the workforce or have been working for years, understanding your legal rights is essential for maintaining a fair and healthy employment relationship.
+
+## Primary Sources of Labour Law in Nigeria
+
+Nigerian labour law is derived from several key sources:
+
+- **The Labour Act (Cap L1, LFN 2004)**: The primary legislation governing employment
+- **The Constitution of the Federal Republic of Nigeria**: Provides fundamental rights
+- **Various Regulations and Orders**: Sector-specific rules and guidelines
+- **Collective Agreements**: Negotiated terms between employers and unions
+
+## Fundamental Employee Rights
+
+### 1. Right to Fair Wages
+
+Every employee has the right to fair compensation for their work:
+
+- The current national minimum wage must be observed
+- Wages must be paid at agreed intervals (usually monthly)
+- Unlawful deductions from wages are prohibited
+- Overtime pay may be required for work beyond standard hours
+
+### 2. Working Hours and Rest Periods
+
+The law establishes limits on working hours:
+
+- Standard working hours should not exceed 8 hours per day
+- Workers are entitled to at least one rest day per week
+- Annual leave of at least 6 working days after 12 months of service
+- Public holidays as declared by the government
+
+### 3. Safe Working Conditions
+
+Employers must provide a safe working environment:
+
+- Proper safety equipment and training
+- Clean and hygienic workplace
+- Protection from workplace hazards
+- Workers' compensation for injuries
+
+### 4. Protection Against Unfair Dismissal
+
+Employees have protection against arbitrary termination:
+
+- Notice must be given before termination (except for gross misconduct)
+- Reasons for dismissal should be valid and documented
+- Payment in lieu of notice may be provided
+- Redundancy payments may be required in certain circumstances
+
+## Maternity and Paternity Rights
+
+Female employees enjoy specific protections:
+
+- At least 12 weeks of maternity leave
+- Protection from dismissal during pregnancy or maternity leave
+- Right to return to the same or equivalent position
+
+## Remedies for Violation of Rights
+
+If your employment rights are violated, you have several options:
+
+1. **Internal Grievance Procedures**: First attempt to resolve issues within the organization
+2. **Ministry of Labour**: File a complaint with the relevant ministry
+3. **National Industrial Court**: Pursue legal action for serious violations
+4. **Labour Unions**: Seek support from your union if applicable
+
+## How Brimany Attorneys Can Assist
+
+Our Labour & Employment practice provides comprehensive services for both employees and employers:
+
+- Employment contract review
+- Workplace dispute resolution
+- Wrongful termination claims
+- Negotiation with employers
+- Representation before the National Industrial Court
+
+We believe in fair treatment for all workers while helping businesses maintain compliant employment practices.
+
+## Conclusion
+
+Knowing your rights is the first step to protecting them. Nigerian labour law provides substantial protections for employees, but these protections only work when workers understand and exercise their rights.
+
+If you're facing workplace issues or need guidance on employment matters, [reach out to our team](https://wa.me/2348064842926) for professional legal assistance.

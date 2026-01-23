@@ -1,0 +1,25 @@
+{
+  "name": "brimany-blog",
+  "version": "1.0.0",
+  "description": "Brimany Attorneys Blog - Built with 11ty",
+  "main": "index.js",
+  "scripts": {
+    "start": "eleventy --serve",
+    "build": "eleventy",
+    "debug": "DEBUG=* eleventy"
+  },
+  "keywords": [
+    "blog",
+    "legal",
+    "11ty",
+    "eleventy"
+  ],
+  "author": "Brimany Attorneys",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  },
+  "dependencies": {
+    "luxon": "^3.4.4"
+  }
+}

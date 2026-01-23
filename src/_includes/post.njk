@@ -1,0 +1,112 @@
+---
+layout: base.njk
+---
+
+<!-- Page Hero -->
+<section class="page-hero page-hero-short">
+  <div class="page-hero-bg">
+    {% if featuredImage %}
+    <img src="{{ featuredImage }}" alt="{{ title }}" loading="eager">
+    {% else %}
+    <img src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?w=1920&q=80" alt="{{ title }}" loading="eager">
+    {% endif %}
+    <div class="page-hero-overlay"></div>
+  </div>
+  <div class="container">
+    <div class="page-hero-content">
+      <span class="page-label">{{ category or 'Legal Insights' }}</span>
+      <h1 class="page-title">{{ title }}</h1>
+      <div class="post-meta">
+        <span><i class="fas fa-calendar-alt"></i> {{ date | readableDate }}</span>
+        <span><i class="fas fa-user"></i> {{ author or 'Onisowurun Sampson' }}</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Breadcrumb -->
+<div class="breadcrumb">
+  <div class="container">
+    <a href="https://brimanyattorneys.com">Home</a>
+    <span>/</span>
+    <a href="/">Blog</a>
+    <span>/</span>
+    <span>{{ title }}</span>
+  </div>
+</div>
+
+<!-- Blog Post Content -->
+<section class="blog-post-section">
+  <div class="container">
+    <div class="blog-post-grid">
+      <article class="blog-post-content">
+        {{ content | safe }}
+
+        <div class="post-tags">
+          {% if tags %}
+          {% for tag in tags %}
+          {% if tag != "posts" %}
+          <a href="/tags/{{ tag | slugify }}/" class="tag">{{ tag }}</a>
+          {% endif %}
+          {% endfor %}
+          {% endif %}
+        </div>
+
+        <div class="post-share">
+          <span>Share this article:</span>
+          <div class="share-buttons">
+            <a href="https://twitter.com/intent/tweet?url=https://blog.brimanyattorneys.com{{ page.url }}&text={{ title }}" target="_blank" rel="noopener" aria-label="Share on Twitter">
+              <i class="fab fa-twitter"></i>
+            </a>
+            <a href="https://www.linkedin.com/shareArticle?mini=true&url=https://blog.brimanyattorneys.com{{ page.url }}&title={{ title }}" target="_blank" rel="noopener" aria-label="Share on LinkedIn">
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+            <a href="https://wa.me/?text={{ title }}%20https://blog.brimanyattorneys.com{{ page.url }}" target="_blank" rel="noopener" aria-label="Share on WhatsApp">
+              <i class="fab fa-whatsapp"></i>
+            </a>
+          </div>
+        </div>
+      </article>
+
+      <aside class="blog-sidebar">
+        <div class="sidebar-card">
+          <h3>About the Author</h3>
+          <div class="author-card">
+            <img src="https://images.unsplash.com/photo-1560250097-0b93528c311a?w=200&q=80" alt="Onisowurun Sampson" loading="lazy">
+            <h4>Onisowurun Sampson, LLB., BL.</h4>
+            <p>Managing Attorney & Founder of Brimany Attorneys</p>
+          </div>
+        </div>
+
+        <div class="sidebar-card">
+          <h3>Need Legal Help?</h3>
+          <p>Contact our team for a confidential consultation.</p>
+          <a href="https://brimanyattorneys.com/contact" class="btn btn-primary btn-block">Schedule Consultation</a>
+        </div>
+
+        <div class="sidebar-card">
+          <h3>Quick Contact</h3>
+          <a href="https://wa.me/2348064842926" class="btn btn-whatsapp btn-block" target="_blank" rel="noopener">
+            <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+          </a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</section>
+
+<!-- CTA Section -->
+<section class="cta-section">
+  <div class="container">
+    <div class="cta-content">
+      <h2>Have Questions About This Topic?</h2>
+      <p>Get in touch with our team for a confidential consultation. We're here to help you navigate your legal challenges.</p>
+      <div class="cta-buttons">
+        <a href="https://brimanyattorneys.com/contact" class="btn btn-primary btn-lg">Get in Touch</a>
+        <a href="https://wa.me/2348064842926" class="btn btn-whatsapp btn-lg" target="_blank" rel="noopener">
+          <i class="fab fa-whatsapp"></i> Chat on WhatsApp
+        </a>
+      </div>
+    </div>
+  </div>
+</section>
