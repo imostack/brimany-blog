@@ -22,7 +22,7 @@ Nigerian labour law is derived from several key sources:
 - **The Labour Act (Cap L1, LFN 2004)**: The primary legislation governing employment
 - **The Constitution of the Federal Republic of Nigeria**: Provides fundamental rights
 - **Various Regulations and Orders**: Sector-specific rules and guidelines
-- **Collective Agreements**: Negotiated terms between employers and unions
+- **Collective Agreements**: Negotiated terms between employers and unions – While collective agreements can be treated as a source of labour law in Nigeria, it is equally germane to state that they must comply with any minimum requirement provided by the law. In other words, they cannot be inconsistent with statutory provision. They are basically there to supplement. If the requirement on annual leave provides for a minimum of 6 days for annual leave, then 6 days remains the benchmark. It cannot go below but certainly can go above in the given circumstance where it is so negotiated and agreed upon by parties.
 
 ## Fundamental Employee Rights
 
@@ -41,7 +41,7 @@ The law establishes limits on working hours:
 
 - Standard working hours should not exceed 8 hours per day
 - Workers are entitled to at least one rest day per week
-- Annual leave of at least 6 working days after 12 months of service
+- **Annual leave of at least 6 working days after 12 months of service** (Section 18 of the Labour Act (Cap L1, LFN 2004). This is particularly common for private companies. Public companies may provide more days for annual leave. Of course, businesses exist in different sectors and have their industry standards when it comes to the issue of annual leave.
 - Public holidays as declared by the government
 
 ### 3. Safe Working Conditions
@@ -55,12 +55,14 @@ Employers must provide a safe working environment:
 
 ### 4. Protection Against Unfair Dismissal
 
-Employees have protection against arbitrary termination:
+Employees have protection against arbitrary termination.
 
 - Notice must be given before termination (except for gross misconduct)
 - Reasons for dismissal should be valid and documented
 - Payment in lieu of notice may be provided
 - Redundancy payments may be required in certain circumstances
+
+When we say employees have protection against arbitrary termination, it is important that we qualify this statement or place a caveat thereafter. We say so because the statement does not cover all categories of employees. It covers workers under the Labour Act but may not cover managerial staff, certain administrative and technical staff, professionals such as lawyers, accountants, and the likes who are under probation except their contract with the employer stipulates otherwise. The point being made here is that what guides the contractual relationship for these sets of staff with their employer is the contract they entered with the respective employer. If the contract is not properly worded to protect their interests or they fail to take it to a lawyer for review before they sign, then they would have to face the consequence if worse comes to worse.
 
 ## Maternity and Paternity Rights
 
@@ -68,7 +70,9 @@ Female employees enjoy specific protections:
 
 - At least 12 weeks of maternity leave
 - Protection from dismissal during pregnancy or maternity leave
-- Right to return to the same or equivalent position
+- Right to return to the same or equivalent position.
+
+Please, note that paternity leave is not enshrined in our laws. It is not statutory. However, organizations may want to integrate same in their employment contract. It can also be added as part of a company's policy as well as made a part of a collective agreement.
 
 ## Remedies for Violation of Rights
 

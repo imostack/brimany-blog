@@ -33,7 +33,7 @@ A trademark is a sign capable of distinguishing the goods or services of one ent
 2. File an application with required documents
 3. Examination by the Registrar
 4. Publication in the Trademark Journal
-5. Registration certificate issued (valid for 7 years, renewable)
+5. Registration certificate issued (valid for 7 years, and renewable for consecutive periods of 14 years).
 
 ### 2. Patents
 
@@ -44,7 +44,7 @@ Patents protect inventions and grant the inventor exclusive rights to make, use,
 - It must involve an inventive step
 - It must be capable of industrial application
 
-**Duration:** Patents in Nigeria are valid for 20 years from the filing date.
+**Duration:** Patents in Nigeria are valid for 20 years from the filing date. This is not the same for designs, for instance under our Industrial Design laws. At the first instance, the right is held for five years. Afterwards, you can apply for another five years, and not more twice before the window period elapses.
 
 ### 3. Copyrights
 
@@ -94,6 +94,12 @@ When your IP rights are infringed, you have several remedies:
 ### Criminal Remedies
 - Prosecution of infringers
 - Fines and imprisonment for serious offenses
+
+Many people don't know but it will do a whole lot of good to a lot of people to say this— certain trademark violations can be criminal in nature. For example, by virtue of S.26 of the Trademark Act, if you use a registered trademark without authorization in relation to goods or services you can be charged for a criminal offence and if convicted imprisoned for up to 3 years, or you may be fined, or in certain cases you will be imprisoned and fined.
+
+The [recent brouhaha in the social media space between VeryDarkMan (VDM) and BLord over the latter's use of the word "Ratel" as the name for his new app](https://punchng.com/drama-as-vdm-blord-lock-horns-over-ownership-of-ratel/) comes to mind. I do not intend to go into the facts here neither do I intend to offer legal opinion on same but the essence of citing this example is to underscore the need for care and diligence when handling one's business, and indeed the need to have a legal team as technical partners to avoid stories that touch.
+
+It is also a criminal offence to make or possess infringing copies of literary, musical or artistic works. Section 36 of the Copyright Act (Cap C28 LFN 2004) criminalizes this act and the punishment is imprisonment for 3 years or fine or both.
 
 ## How Brimany Attorneys Can Help
 
