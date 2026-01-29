@@ -989,6 +989,8 @@ p {
   display: flex;
   justify-content: space-between;
   align-items: center;
+  flex-wrap: wrap;
+  gap: var(--space-sm);
   padding: var(--space-lg) 0;
   font-size: 0.875rem;
   color: rgba(255, 255, 255, 0.6);
@@ -1001,6 +1003,21 @@ p {
 
 .footer-legal a:hover {
   color: var(--color-secondary);
+}
+
+.powered-by {
+  width: 100%;
+  text-align: center;
+  margin-top: var(--space-sm);
+  font-size: 0.8rem;
+}
+
+.powered-by a {
+  color: var(--color-secondary);
+}
+
+.powered-by a:hover {
+  text-decoration: underline;
 }
 
 /* ============================================
