@@ -2,7 +2,7 @@
 title: "Employee Rights Under Nigerian Labour Law: What Every Worker Should Know"
 description: "A comprehensive guide to employee rights and protections under Nigerian labour law."
 date: 2026-01-10
-author: "Onisowurun Sampson"
+author: "Brimany Attorneys Team"
 category: "Labour Law"
 featuredImage: "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=800&q=80"
 excerpt: "Understanding your rights as an employee in Nigeria is crucial for protecting yourself in the workplace. This guide covers the essential protections provided under Nigerian labour law."

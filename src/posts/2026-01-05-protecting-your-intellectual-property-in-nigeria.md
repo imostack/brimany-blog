@@ -2,7 +2,7 @@
 title: "Protecting Your Intellectual Property in Nigeria: Trademarks, Patents, and Copyrights"
 description: "Learn how to protect your valuable intellectual property assets in Nigeria through proper registration and enforcement."
 date: 2026-01-05
-author: "Onisowurun Sampson"
+author: "Brimany Attorneys Team"
 category: "Intellectual Property"
 featuredImage: "https://images.unsplash.com/photo-1432821596592-e2c18b78144f?w=800&q=80"
 excerpt: "Your intellectual property is one of your most valuable business assets. Understanding how to protect trademarks, patents, and copyrights in Nigeria is essential for safeguarding your creative works and innovations."

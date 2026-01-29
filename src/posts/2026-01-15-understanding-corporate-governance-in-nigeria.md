@@ -2,7 +2,7 @@
 title: "Understanding Corporate Governance in Nigeria: A Simple Guide for Business Owners"
 description: "An overview of corporate governance requirements and best practices for businesses operating in Nigeria."
 date: 2026-01-15
-author: "Onisowurun Sampson"
+author: "Brimany Attorneys Team"
 category: "Corporate Law"
 featuredImage: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&q=80"
 excerpt: "Corporate governance is the system of rules, practices, and processes by which a company is directed and controlled. For Nigerian businesses, understanding these principles is essential for sustainable growth."
