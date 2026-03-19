@@ -13,9 +13,10 @@ While it is true that the non-oil export sector is growing rapidly in Nigeria, i
 
 Nigeria's economic plan to diversify its non-oil export sector cannot be achieved independent of foreign actors. For the purpose of this article, let us see international bodies as a foreign actor. As a corollary therefore, a global organization like the World Trade Organization comes within this bracket. 
 
-Nigeria is a member of the World Trade Organization and became a member in 1995. The WTO is saddled with the function of overseeing trade agreements amongst over 160 member states, including Nigeria. Consequent upon this we are bound by all WTO legal frameworks such as: 
+Nigeria is a member of the World Trade Organization and became a member in 1995. The WTO is saddled with the function of overseeing trade agreements amongst over [166 member states, including Nigeria](https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm). Consequent upon this, we are bound by all WTO legal frameworks such as: 
 
-The General Agreement on Tariffs and Trade (GATT) 
+
+• The General Agreement on Tariffs and Trade (GATT) 
 
 • The Agreement on Sanitary and Phytosanitary Measures (SPS) 
 
@@ -33,13 +34,13 @@ How important are WTO rules to you, a Nigerian exporter? You may be wondering ho
 
 To reduce conflicts in trade, legal frameworks created thereto have to be clear. In other words there must be certainty of meaning. This is one of the objective of the World Trade Organization—to provide a legal framework that is unambiguous and easy for parties to understand and follow. The WTO has rules on tariffs, subsidies and trade remedies. If you export products, whether sesame seeds, ginger, dried hibiscus flowers, solid minerals, and so on, just know that these rules affect you. Like you probably know by now – ignorance of the law is not an excuse. “I didn’t know” is not an excuse that will help you if you violate any of these rules. It is always better to be proactive in business. This is why many businesses engage the services of professionals such as accountants, lawyers, forwarding and clearing agents, sometimes on a retainer basis to ensure that there export process flows seamlessly.
 
-Key WTO Agreements Every Nigerian Exporter Must Understand
+**Key WTO Agreements Every Nigerian Exporter Must Understand**
 
 1. The SPS Agreement
 
-This Agreement governs food safety and plant/animal health standards. When you are exporting plants like hibiscus flowers or sesame seeds, the quality of your export must be in line with the sanitary standards of the importing country. In other words, if you are exporting crayfish, for instance, from Nigeria to the United States of America, the packaging of your crayfish must comply with the sanitary standards of the US.
+[This Agreement](https://www.wto.org/english/tratop_e/sps_e/events_e.htm) governs food safety and plant/animal health standards. When you are exporting plants like hibiscus flowers or sesame seeds, the quality of your export must be in line with the sanitary standards of the importing country. In other words, if you are exporting crayfish, for instance, from Nigeria to the United States of America, the packaging of your crayfish must comply with the sanitary standards of the US.
 
-2. The TBT Agreement
+2. [The TBT Agreement](https://www.wto.org/english/tratop_e/tbt_e/tbt_e.htm)
 
 If you export cosmetics, for instance, your product must meet certain requirements. Thus, it must comply with the standard for product labelling. Again, it has to be properly packaged. It must meet safety standards. The same rule applies to someone who exports processed foods. 
 
@@ -55,7 +56,9 @@ Nigerian exporters enjoy MFN treatment and preferential trade terms under GATT a
 
 The problem here is that some of these mistakes can be avoided. I hope our exporters will see the need to put in place better systems and structures in their businesses to mitigate these issues. Some of these mistakes include:
 
-• Invalid or expired product certificates
+• Invalid or expired product certificates:
+
+Once your product certificate has expired, you need to take steps to renew it. For a body like NAFDAC, there are steps that can be followed and they usually publish the requirements on their website. To renew certificate for human and veterinary drugs one has to follow the [Guidelines for Renewal of Certificate of Registration For Drug Products (Human And Veterinary Drugs) as published on their website.](https://nafdac.gov.ng/wp-content/uploads/Files/Resources/Guidelines/DR&R_2025/Guidelines-for-Renewal-of-Certificate-of-Registration-for-Drug-Products-Human-and-Vet.pdf)
 
 • Incorrect information on the NXP form or bill of lading
 
