@@ -18,7 +18,7 @@ tags:
 ---
 While it is true that the non-oil export sector is growing rapidly in Nigeria, ignorance of what WTO rules for Nigerian exporters entail remains a challenge among many exporters, particularly mini exporters.
 
-Nigeria became a member of the World Trade Organization in 1995. The WTO is saddled with the function of overseeing trade agreements amongst over [166 member states, including Nigeria](<>). Consequent upon this, we are bound by all WTO legal frameworks such as:
+Nigeria became a member of the World Trade Organization in 1995. The WTO is saddled with the function of overseeing trade agreements amongst over [166 member states, including Nigeria](https://www.wto.org/english/thewto_e/whatis_e/who_we_are_e.htm). Consequent upon this, we are bound by all WTO legal frameworks such as:
 
 * The General Agreement on Tariffs and Trade (GATT) 
 
