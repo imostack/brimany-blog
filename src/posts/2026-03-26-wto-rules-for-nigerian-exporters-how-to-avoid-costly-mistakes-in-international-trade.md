@@ -5,7 +5,11 @@ date: 2026-03-26T13:18:00.000+01:00
 author: Brimany Attorneys Team
 category: Legal Insights
 featuredImage: ""
-excerpt: ""
+excerpt: Imagine a hypothetical scenario involving a Calabar-based exporter who
+  lost a $45,000 deal in dried hibiscus flowers due to his container being
+  detained at Apapa port over an expired NAFDAC certificate and a minor NXP
+  defect. The truth is that both mistakes are avoidable if you consult strategic
+  partners to assist you through the various stages of your exporting.
 tags:
   - posts
 ---
