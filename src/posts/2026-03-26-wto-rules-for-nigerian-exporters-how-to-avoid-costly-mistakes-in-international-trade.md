@@ -36,6 +36,8 @@ How important are WTO rules to you, a Nigerian exporter? You may be wondering ho
 
 ## **What Is the WTO and How Does It Affect Nigerian Exporters?**
 
+I often like calling the World Trade Organization (WTO) the global referee for trade. It manages international agreements that keep trade moving. It also settles "trade wars" and disputes between countries. It works to lower taxes (tariffs) so products are affordable and accessible.
+
 To reduce conflicts in trade, legal frameworks created thereto have to be clear. In other words there must be certainty of meaning. This is one of the objective of the World Trade Organization—to provide a legal framework that is unambiguous and easy for parties to understand and follow. The WTO has rules on tariffs, subsidies and trade remedies. If you export products, whether sesame seeds, ginger, dried hibiscus flowers, solid minerals, and so on, just know that these rules affect you. Like you probably know by now – ignorance of the law is not an excuse. “I didn’t know” is not an excuse that will help you if you violate any of these rules. It is always better to be proactive in business. This is why many businesses engage the services of professionals such as accountants, lawyers, forwarding and clearing agents, sometimes on a retainer basis to ensure that there export process flows seamlessly.
 
 ## **Key WTO Agreements Every Nigerian Exporter Must Understand**
