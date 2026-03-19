@@ -1,8 +1,11 @@
 ---
 title: "WTO Rules for Nigerian Exporters: How to Avoid Costly Mistakes in
   International Trade"
+description: Many Nigerian exporters lose money due to simple compliance
+  mistakes. Learn WTO rules, export documentation requirements, and how to avoid
+  costly trade errors.
 date: 2026-03-26T13:18:00.000+01:00
-author: Brimany Attorneys Team
+author: Onisowurun Sampson, Esq.
 category: Legal Insights
 featuredImage: ""
 excerpt: Imagine a hypothetical scenario involving a Calabar-based exporter who
@@ -11,16 +14,13 @@ excerpt: Imagine a hypothetical scenario involving a Calabar-based exporter who
   defect. The truth is that both mistakes are avoidable if you consult strategic
   partners to assist you through the various stages of your exporting.
 tags:
-  - posts
+  - export compliance
 ---
 While it is true that the non-oil export sector is growing rapidly in Nigeria, ignorance of what WTO rules for Nigerian exporters entail remains a challenge among many exporters, particularly mini exporters.
 
-Nigeria's economic plan to diversify its non-oil export sector cannot be achieved independent of foreign actors. For the purpose of this article, let us see international bodies as a foreign actor. As a corollary therefore, a global organization like the World Trade Organization comes within this bracket. 
+Nigeria became a member of the World Trade Organization in 1995. The WTO is saddled with the function of overseeing trade agreements amongst over [166 member states, including Nigeria](<>). Consequent upon this, we are bound by all WTO legal frameworks such as:
 
-Nigeria is a member of the World Trade Organization and became a member in 1995. The WTO is saddled with the function of overseeing trade agreements amongst over [166 member states, including Nigeria](https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm). Consequent upon this, we are bound by all WTO legal frameworks such as: 
-
-
-• The General Agreement on Tariffs and Trade (GATT) 
+* The General Agreement on Tariffs and Trade (GATT) 
 
 • The Agreement on Sanitary and Phytosanitary Measures (SPS) 
 
