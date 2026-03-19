@@ -63,7 +63,7 @@ The problem here is that some of these mistakes can be avoided. I hope our expor
 
 • Unfamiliarity with non-tariff measures like import bans or advanced product rules.
 
-In my last article, I began with a hypothetical scenario about a Calabar-based exporter who lost a $45,000 deal in dried hibiscus flowers due to his container being detained at Apapa port over an expired NAFDAC certificate and a minor NXP defect. The truth is that both mistakes are avoidable if you consult strategic partners to assist you through the various stages of your exporting.
+Imagine a hypothetical scenario involving a Calabar-based exporter who lost a $45,000 deal in dried hibiscus flowers due to his container being detained at Apapa port over an expired NAFDAC certificate and a minor NXP defect. The truth is that both mistakes are avoidable if you consult strategic partners to assist you through the various stages of your exporting.
 
 **Why Nigerian Exporters Should Seek Professional Advice**
 
