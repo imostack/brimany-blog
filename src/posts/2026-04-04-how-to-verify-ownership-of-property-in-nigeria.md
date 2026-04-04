@@ -27,7 +27,7 @@ Before purchasing real estate in Nigeria, it is important to consider the points
 
 However, the statistics on allegations of fraud in real estate transactions are there for anyone interested to look up.
 
-•	[As reported on the Guardian, in 2024 a woman and her daughter-in-law were arraigned over alleged N6m land fraud in Port Harcourt. ](https://guardian.ng/news/woman-daughter-in-law-arraigned-over-alleged-n6m-land-fraud-in-port-harcourt/)
+•	[As reported in the Guardian, in 2024 a woman and her daughter-in-law were arraigned over alleged N6m land fraud in Port Harcourt. ](https://guardian.ng/news/woman-daughter-in-law-arraigned-over-alleged-n6m-land-fraud-in-port-harcourt/)
 
 •	[Operatives at the Force Criminal Investigation Department (FCID), Alagbon, Lagos State arrested a popular socialite over his alleged involvement in a N447 million land fraud.](https://thenationonlineng.net/police-nab-lagos-socialite-over-alleged-n477m-land-fraud/) 
 
