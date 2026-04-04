@@ -29,6 +29,8 @@ tags:
   - avoid-land-fraud
   - lis-pendens-property
   - property-litigation
+  - buying-property-port-harcourt
+  - how-to-verify-land
 ---
 ## **Introduction**
 
