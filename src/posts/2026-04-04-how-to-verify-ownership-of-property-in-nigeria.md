@@ -14,12 +14,11 @@ excerpt: Before purchasing real estate in Nigeria, it is important to consider
   people haven’t had a bad experience buying a property that is encumbered so
   they believe there is no need for legal guidance.
 tags:
-  - port-harcourt-real-estate property-lawyer-port-harcourt
-    real-estate-lawyer-port-harcourt buying-land-port-harcourt
-    rivers-state-propertyproperty-lawyer-nigeria real-estate-lawyer-nigeria
-    legal-due-diligence title-verification
-    property-legal-adviceland-fraud-nigeria property-scams-nigeria
-    avoid-land-fraud lis-pendens-property property-litigation
+  - port-harcourt-real-estate
+  - property-lawyer-port-harcourt
+  - real-estate-lawyer-port-harcourt
+  - buying-land-port-harcourt
+  - rivers-state-property   property-lawyer-nigeria   real-estate-lawyer-nigeria   legal-due-diligence   title-verification   property-legal-advice   land-fraud-nigeria   property-scams-nigeria   avoid-land-fraud   lis-pendens-property   property-litigation
 ---
 ## **Introduction**
 
